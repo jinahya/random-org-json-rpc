@@ -1,2 +1,2 @@
-# random-org-json-rpc-java
-A mavenized version of RandomOrg/JSON-RPC-Java
+# random-org-json-rpc
+RandomOrg/JSON-RPC-Java as Mavenized.

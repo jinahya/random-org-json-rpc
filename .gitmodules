@@ -1,0 +1,6 @@
+[submodule "JSON-RPC-Java"]
+	path = JSON-RPC-Java
+	url = https://github.com/RandomOrg/JSON-RPC-Java.git
+[submodule ".idea/codeStyles"]
+	path = .idea/codeStyles
+	url = https://github.com/onacit/dot-idea-codestyles.git
