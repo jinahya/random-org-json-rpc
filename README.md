@@ -1,2 +1,2 @@
 # random-org-json-rpc
-RandomOrg/JSON-RPC-Java as Mavenized.
+A module for maven-izing [RandomOrg / JSON-RPC-Java](https://github.com/RandomOrg/JSON-RPC-Java).
